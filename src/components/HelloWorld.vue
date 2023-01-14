@@ -16,7 +16,12 @@ defineProps({
         >Github</a
       >
       projects and profesional carreer on
-      <a href="https://vuejs.org/" target="_blank" rel="noopener">LinkedIn</a>.
+      <a
+        href="https://www.linkedin.com/in/emanuel-rojas/"
+        target="_blank"
+        rel="noopener"
+        >LinkedIn</a
+      >.
     </h3>
   </div>
 </template>
