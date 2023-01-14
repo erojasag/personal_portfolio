@@ -70,7 +70,7 @@ import SupportIcon from "./icons/IconSupport.vue";
     |
     <a href="https://twitter.com/merakiema_dev" target="_blank" rel="noopener"
       >Twitter</a
-    >.
+    >
   </WelcomeItem>
   
 </template>
