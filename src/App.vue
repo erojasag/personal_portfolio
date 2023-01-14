@@ -8,7 +8,7 @@ import HelloWorld from "./components/HelloWorld.vue";
     <img
       alt="Vue logo"
       class="logo"
-      src="@/assets/logo_transparent.png"
+      src="@/assets/emarojasvector.svg"
       width="425"
       height="325"
     />
@@ -35,6 +35,7 @@ header {
 .logo {
   display: block;
   margin: 0 auto 2rem;
+  right: 50px;
 }
 
 nav {
