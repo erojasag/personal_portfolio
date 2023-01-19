@@ -23,6 +23,11 @@ defineProps({
         >LinkedIn</a
       >.
     </h3>
+    <h4 id="cv">
+      <a href="../assets/Emanuel_Rojas Aguero_CV.pdf" download
+        >Download My CV 😉</a
+      >
+    </h4>
   </div>
 </template>
 
@@ -35,6 +40,10 @@ h1 {
 
 h3 {
   font-size: 1.2rem;
+}
+#cv {
+  padding-top: 20px;
+  padding-left: 40px;
 }
 
 .greetings h1,

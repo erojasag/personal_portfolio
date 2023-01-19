@@ -1,7 +1,6 @@
 <script setup>
 import { RouterLink, RouterView } from "vue-router";
 import HelloWorld from "./components/HelloWorld.vue";
-import FileComponent from "./components/FileComponent.vue";
 </script>
 
 <template>
@@ -21,7 +20,6 @@ import FileComponent from "./components/FileComponent.vue";
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About Me</RouterLink>
       </nav>
-      <FileComponent></FileComponent>
     </div>
   </header>
 
