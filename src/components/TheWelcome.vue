@@ -14,9 +14,9 @@ import SupportIcon from "./icons/IconSupport.vue";
     </template>
     <template #heading>Biography</template>
     Born and raised in Alajuela, Costa Rica<br />
-    Emanuel, is a 24 years old software engineer that is passionate about web
-    development and building aplications that will have impact in the users
-    day-to-day.
+    I'm a 24 y/o software engineer who is passionate about web development,
+    motorcycles, bbq and techno music. Not much of a reader, but when it comes
+    to some good documentation of any new technologies, I'm all in. 😉
   </WelcomeItem>
 
   <WelcomeItem>
@@ -72,5 +72,4 @@ import SupportIcon from "./icons/IconSupport.vue";
       >Twitter</a
     >
   </WelcomeItem>
-  
 </template>
