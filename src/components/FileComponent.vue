@@ -12,7 +12,7 @@ export default {
     this.downloadFile();
   },
   methods: {
-    async downloadFile() {
+    downloadFile() {
       axios({
         url: "https://drive.google.com/file/d/1uPyeUOaxJOHSV1uwmKvBV1uiCeuvw2iF/view?usp=share_link",
         method: "GET",
