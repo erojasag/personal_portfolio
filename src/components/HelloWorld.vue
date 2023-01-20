@@ -25,7 +25,7 @@ defineProps({
     </h3>
     <h4 id="cv">
       <a href="../assets/Emanuel_Rojas Aguero_CV.pdf" download
-        >Download My CV 😉</a
+        >Download My CV 🚀</a
       >
     </h4>
   </div>
