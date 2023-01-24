@@ -15,7 +15,7 @@ defineProps({
       <a href="https://github.com/erojasag" target="_blank" rel="noopener"
         >Github</a
       >
-      projects and profesional carreer on
+      projects and professional carreer on
       <a
         href="https://www.linkedin.com/in/emanuel-rojas/"
         target="_blank"
